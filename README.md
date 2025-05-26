@@ -1,1 +1,2 @@
 # PartitionOfLL
+brute force solution
